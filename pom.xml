@@ -51,12 +51,12 @@
 
     <distributionManagement>
         <repository>
-            <id>m2repo-unreleased.googlecode.com/releases</id>
+            <id>m2repo-unreleased.googlecode.com.releases</id>
             <name>m2repo unreleased - releases</name>
             <url>svn:https://m2repo-unreleased.googlecode.com/svn/repo/releases</url>
         </repository>
         <snapshotRepository>
-            <id>m2repo-unreleased.googlecode.com/snapshots</id>
+            <id>m2repo-unreleased.googlecode.com.snapshots</id>
             <name>m2repo unreleased - snapshots</name>
             <url>svn:https://m2repo-unreleased.googlecode.com/svn/repo/snapshots</url>
         </snapshotRepository>
